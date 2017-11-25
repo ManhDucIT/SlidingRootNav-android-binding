@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingRootNav", "SlidingRootNav\SlidingRootNav.csproj", "{CF4B862C-5CB7-4A46-BCFB-6C125E4149F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingRootNavTest", "sample\SlidingRootNavTest\SlidingRootNavTest.csproj", "{66EA9358-F491-4B32-8AE4-FD44CF0529C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4B862C-5CB7-4A46-BCFB-6C125E4149F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4B862C-5CB7-4A46-BCFB-6C125E4149F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4B862C-5CB7-4A46-BCFB-6C125E4149F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4B862C-5CB7-4A46-BCFB-6C125E4149F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EA9358-F491-4B32-8AE4-FD44CF0529C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EA9358-F491-4B32-8AE4-FD44CF0529C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EA9358-F491-4B32-8AE4-FD44CF0529C5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{66EA9358-F491-4B32-8AE4-FD44CF0529C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EA9358-F491-4B32-8AE4-FD44CF0529C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EA9358-F491-4B32-8AE4-FD44CF0529C5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF27775D-1CB2-43B7-B0EA-25E41E6E8BFB}
+	EndGlobalSection
+EndGlobal
